@@ -297,4 +297,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
